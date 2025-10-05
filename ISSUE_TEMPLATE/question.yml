@@ -1,0 +1,9 @@
+name: ❓ Pregunta
+description: Pregunta o duda general sobre el proyecto.
+labels: [question]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Tu pregunta
+      placeholder: Explica tu duda con claridad.

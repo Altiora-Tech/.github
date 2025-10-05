@@ -1,0 +1,25 @@
+name: 🐞 Bug Report
+description: Reporta un error o comportamiento inesperado.
+labels: [bug]
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: Descripción breve
+      placeholder: Qué pasó brevemente.
+  - type: textarea
+    id: steps
+    attributes:
+      label: Pasos para reproducir
+      description: Incluye pasos detallados para reproducir el bug.
+      placeholder: 1. Ir a... 2. Hacer clic en...
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportamiento esperado
+      placeholder: Qué debería ocurrir.
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto adicional
+      placeholder: Logs, entorno o capturas relevantes.

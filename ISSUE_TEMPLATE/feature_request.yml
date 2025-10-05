@@ -1,0 +1,19 @@
+name: 💡 Feature Request
+description: Sugiere una nueva idea o mejora.
+labels: [enhancement]
+body:
+  - type: input
+    id: idea
+    attributes:
+      label: Idea general
+      placeholder: Qué deseas agregar o mejorar.
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivación
+      placeholder: Por qué sería útil o necesario.
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Posible implementación
+      placeholder: Cómo podría hacerse.

@@ -1,0 +1,19 @@
+name: Bienvenida
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Enviar mensaje de bienvenida
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `👋 ¡Gracias por tu contribución a **Altiora-Tech**! Tu participación impulsa la innovación.`
+            })
