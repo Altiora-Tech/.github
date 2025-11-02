@@ -113,8 +113,6 @@ Bienvenido a Altiora-Tech,Somos una comunidad de desarrolladores, diseñadores y
 
 ### 🖼️ Logotipo
 
-### 🖼️ Logotipo
-
 #### Versiones del Logo
 <div style="display: flex; gap: 20px; margin: 20px 0;">
   <div style="text-align: center;">
@@ -317,4 +315,5 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
     <a href="https://linkedin.com/company/altiora-tech">LinkedIn</a>
   </p>
 </div>
+
 
