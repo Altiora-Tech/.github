@@ -41,56 +41,41 @@ Bienvenido a Altiora-Tech,Somos una comunidad de desarrolladores, diseñadores y
 ### 🎨 Paleta de Colores
 
 ##### Púrpura Principal
-<div style="display: flex; gap: 15px; margin: 15px 0; flex-wrap: wrap;">
-  <div style="background-color: #37186f; width: 120px; height: 120px; border-radius: 12px; display: flex; flex-direction: column; align-items: center; justify-content: center; color: white; font-weight: bold; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-    <span style="font-size: 12px;">Púrpura Oscuro</span>
-    <span style="font-size: 14px; margin-top: 5px;">#37186f</span>
-  </div>
-  <div style="background-color: #4c1d95; width: 120px; height: 120px; border-radius: 12px; display: flex; flex-direction: column; align-items: center; justify-content: center; color: white; font-weight: bold; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-    <span style="font-size: 12px;">Púrpura</span>
-    <span style="font-size: 14px; margin-top: 5px;">#4c1d95</span>
-  </div>
-  <div style="background-color: #6d28d9; width: 120px; height: 120px; border-radius: 12px; display: flex; flex-direction: column; align-items: center; justify-content: center; color: white; font-weight: bold; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-    <span style="font-size: 12px;">Púrpura Claro</span>
-    <span style="font-size: 14px; margin-top: 5px;">#6d28d9</span>
-  </div>
-</div>
+
+| Muestra | Nombre | Código |
+|---------|--------|--------|
+| ⬛️      | Púrpura Oscuro | `#37186f` |
+| 🟪       | Púrpura | `#4c1d95` |
+| 🟣       | Púrpura Claro | `#6d28d9` |
 
 ##### Dorado
-<div style="display: flex; gap: 15px; margin: 15px 0; flex-wrap: wrap;">
-  <div style="background-color: #eab308; width: 120px; height: 120px; border-radius: 12px; display: flex; flex-direction: column; align-items: center; justify-content: center; color: #1f2937; font-weight: bold; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-    <span style="font-size: 12px;">Dorado Oscuro</span>
-    <span style="font-size: 14px; margin-top: 5px;">#eab308</span>
-  </div>
-  <div style="background-color: #facc15; width: 120px; height: 120px; border-radius: 12px; display: flex; flex-direction: column; align-items: center; justify-content: center; color: #1f2937; font-weight: bold; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-    <span style="font-size: 12px;">Dorado</span>
-    <span style="font-size: 14px; margin-top: 5px;">#facc15</span>
-  </div>
-  <div style="background-color: #fde047; width: 120px; height: 120px; border-radius: 12px; display: flex; flex-direction: column; align-items: center; justify-content: center; color: #1f2937; font-weight: bold; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-    <span style="font-size: 12px;">Dorado Claro</span>
-    <span style="font-size: 14px; margin-top: 5px;">#fde047</span>
-  </div>
-</div>
+
+| Muestra | Nombre | Código |
+|---------|--------|--------|
+| 🟤       | Dorado Oscuro | `#eab308` |
+| 🟡       | Dorado | `#facc15` |
+| ⭐       | Dorado Claro | `#fde047` |
 
 ##### Escala de Grises
-<div style="display: flex; gap: 10px; margin: 15px 0; flex-wrap: wrap;">
-  <div style="background-color: #1f2937; width: 100px; height: 80px; border-radius: 8px; display: flex; flex-direction: column; align-items: center; justify-content: center; color: white; font-size: 12px; font-weight: bold;">
-    <span>Gris Oscuro</span>
-    <span>#1f2937</span>
-  </div>
-  <div style="background-color: #4b5563; width: 100px; height: 80px; border-radius: 8px; display: flex; flex-direction: column; align-items: center; justify-content: center; color: white; font-size: 12px; font-weight: bold;">
-    <span>Gris</span>
-    <span>#4b5563</span>
-  </div>
-  <div style="background-color: #9ca3af; width: 100px; height: 80px; border-radius: 8px; display: flex; flex-direction: column; align-items: center; justify-content: center; color: #1f2937; font-size: 12px; font-weight: bold;">
-    <span>Gris Claro</span>
-    <span>#9ca3af</span>
-  </div>
-  <div style="background-color: #f3f4f6; width: 100px; height: 80px; border-radius: 8px; display: flex; flex-direction: column; align-items: center; justify-content: center; color: #1f2937; font-size: 12px; font-weight: bold; border: 1px solid #e5e7eb;">
-    <span>Fondo</span>
-    <span>#f3f4f6</span>
-  </div>
-</div>
+
+| Muestra | Nombre | Código |
+|---------|--------|--------|
+| ⬛️      | Gris Oscuro | `#1f2937` |
+| ⬜      | Gris | `#4b5563` |
+| ⚪      | Gris Claro | `#9ca3af` |
+| ⬜      | Fondo | `#f3f4f6` |
+
+##### Vista previa de la paleta
+
+```
+┌─────────────────┬─────────────────┬─────────────────┐
+│  ██████ #37186f │ ███████ #4c1d95 │ ███████ #6d28d9 │
+│  Púrpura Oscuro │    Púrpura      │   Púrpura Claro │
+├─────────────────┼─────────────────┼─────────────────┤
+│  ███████ #eab308│ ███████ #facc15 │ ███████ #fde047 │
+│  Dorado Oscuro  │     Dorado      │   Dorado Claro  │
+└─────────────────┴─────────────────┴─────────────────┘
+```
 
 ### 🔤 Tipografía
 
@@ -121,7 +106,8 @@ Bienvenido a Altiora-Tech,Somos una comunidad de desarrolladores, diseñadores y
       <p style="color: #6B7280; margin: 5px 0 0 0; font-size: 14px;">(Color sobre fondo claro)</p>
     </div>
   </div>
-  <div style="background: #4c1d95; padding: 20px; border-radius: 8px; margin-bottom: 10px;">
+  <div style="text-align: center;">
+    <div style="background: #4c1d95; padding: 20px; border-radius: 8px; margin-bottom: 10px;">
       <p style="color: #facc15; font-weight: bold; margin: 0;">Logo Invertido</p>
       <p style="color: #fde047; margin: 5px 0 0 0; font-size: 14px;">(Dorado sobre púrpura)</p>
     </div>
@@ -139,11 +125,11 @@ Bienvenido a Altiora-Tech,Somos una comunidad de desarrolladores, diseñadores y
 ```
 +------------------------+
 |                        |
-|    +------------+     |
-|    |            |     |
-|    |    LOGO    |     |
-|    |            |     |
-|    +------------+     |
+|    +------------+      |
+|    |            |      |
+|    |    LOGO    |      |
+|    |            |      |
+|    +------------+      |
 |                        |
 +------------------------+
 ```
@@ -315,5 +301,6 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
     <a href="https://linkedin.com/company/altiora-tech">LinkedIn</a>
   </p>
 </div>
+
 
 
