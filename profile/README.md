@@ -7,7 +7,7 @@
   
   [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
   [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
-  [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+ [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
   
@@ -25,7 +25,6 @@
 - [📄 Licencia](#-licencia)
 
 ## 🚀 Comenzando
-
 Bienvenido a Altiora-Tech,Somos una comunidad de desarrolladores, diseñadores y visionarios. Nuestro enfoque combina <span style="color: #4c1d95; font-weight: 600;">rigor técnico</span> con <span style="color: #facc15; font-weight: 600;">arte digital</span> y una visión de futuro.
 
 ### Nuestros Valores
@@ -40,8 +39,6 @@ Bienvenido a Altiora-Tech,Somos una comunidad de desarrolladores, diseñadores y
 📌 **Recurso visual completo**: [Ver Manual de Marca en Figma](https://santa-effect-88204471.figma.site/)
 
 ### 🎨 Paleta de Colores
-
-#### 🎨 Paleta de Colores
 
 ##### Púrpura Principal
 <div style="display: flex; gap: 15px; margin: 15px 0; flex-wrap: wrap;">
@@ -116,6 +113,8 @@ Bienvenido a Altiora-Tech,Somos una comunidad de desarrolladores, diseñadores y
 
 ### 🖼️ Logotipo
 
+### 🖼️ Logotipo
+
 #### Versiones del Logo
 <div style="display: flex; gap: 20px; margin: 20px 0;">
   <div style="text-align: center;">
@@ -124,8 +123,7 @@ Bienvenido a Altiora-Tech,Somos una comunidad de desarrolladores, diseñadores y
       <p style="color: #6B7280; margin: 5px 0 0 0; font-size: 14px;">(Color sobre fondo claro)</p>
     </div>
   </div>
-  <div style="text-align: center;">
-    <div style="background: #4c1d95; padding: 20px; border-radius: 8px; margin-bottom: 10px;">
+  <div style="background: #4c1d95; padding: 20px; border-radius: 8px; margin-bottom: 10px;">
       <p style="color: #facc15; font-weight: bold; margin: 0;">Logo Invertido</p>
       <p style="color: #fde047; margin: 5px 0 0 0; font-size: 14px;">(Dorado sobre púrpura)</p>
     </div>
@@ -319,3 +317,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
     <a href="https://linkedin.com/company/altiora-tech">LinkedIn</a>
   </p>
 </div>
+
