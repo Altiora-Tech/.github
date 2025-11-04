@@ -25,7 +25,7 @@
 - [📄 Licencia](#-licencia)
 
 ## 🚀 Comenzando
-Bienvenido a Altiora-Tech,Somos una comunidad de desarrolladores, diseñadores y visionarios. Nuestro enfoque combina <span style="color: #4c1d95; font-weight: 600;">rigor técnico</span> con <span style="color: #facc15; font-weight: 600;">arte digital</span> y una visión de futuro.
+Bienvenido a Altiora-Tech. Somos una comunidad de desarrolladores, diseñadores y visionarios. Nuestro enfoque combina <span style="color: #4c1d95; font-weight: 600;">rigor técnico</span> con <span style="color: #facc15; font-weight: 600;">arte digital</span> y una visión de futuro.
 
 ### Nuestros Valores
 
@@ -301,6 +301,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
     <a href="https://linkedin.com/company/altiora-tech">LinkedIn</a>
   </p>
 </div>
+
 
 
 
